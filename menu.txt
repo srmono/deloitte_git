@@ -1,4 +1,4 @@
 Started working on feature 1
 feature 1 progress 2
-feature 1 progress 3
+changed in the remote
 menu completed
